@@ -1,0 +1,29 @@
+{
+    "name": "infoamin/laravel-installer",
+    "description": "RoverCRM Installer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Techvillage",
+            "email": "support@techvill.net"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Aminul Islam",
+            "email": "aminul.techvill@gmail.com"
+        },
+        {
+            "name": "Jalal Uddin",
+            "email": "jalal.techvill@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+      "Infoamin\\Installer\\": "src/"
+    }
+  }
+}
